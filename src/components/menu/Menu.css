@@ -1,0 +1,16 @@
+ul{
+    list-style-type: none;
+    text-align: left;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
+
+.menu_container{
+    width: 270px;
+}
+
+.logo{
+    padding: 0.5rem;
+}
