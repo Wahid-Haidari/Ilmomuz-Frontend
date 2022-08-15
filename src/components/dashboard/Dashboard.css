@@ -1,0 +1,13 @@
+.dashboard_cards{
+    display: flex;
+    gap: 2rem;
+
+    
+}
+
+.card {
+    background-color: lightblue;
+    width: 13rem;
+    height: 7rem;
+    padding: 1rem;
+}

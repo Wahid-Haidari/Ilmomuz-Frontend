@@ -22,11 +22,19 @@ code {
   --color-bg-blue: #3A7B9C;
   --color-bg-white: #F7F7F7;
 
- 
 
   --transition: all 400ms ease;
   --container-width-lg:  80%;
   --container-width-md:  86%;
   --container-width-sm:  90%;
 
+}
+
+.big_container{
+    background-color: var(--color-bg-white);
+    height: 98vh;
+    margin: 0.4rem;
+    width: 90%;
+    border-radius: 2rem;
+    padding: 2rem;
 }

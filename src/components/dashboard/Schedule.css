@@ -1,0 +1,50 @@
+.schedule {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-color: lightblue;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid rgb(179, 170, 146);
+    text-align: center;
+    padding: 8px;
+    font-size: 1rem;
+  }
+  
+  th {
+    background-color: rgb(179, 170, 146);
+    
+  }
+  
+  
+  form {
+    display: flex;
+    gap: 5px;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 1rem;
+  }
+
+  .time{
+    background-color: lightcoral;
+  }
+
+  .schedule_title{
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
